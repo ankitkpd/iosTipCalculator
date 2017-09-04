@@ -11,6 +11,6 @@ It supports following functionalities:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/PI47UVK' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](iosTipCalculator.gif?raw=true "iosTipCalculator")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
